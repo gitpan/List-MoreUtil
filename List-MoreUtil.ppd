@@ -1,0 +1,11 @@
+<SOFTPKG NAME="List-MoreUtil" VERSION="0,01,0,0">
+    <TITLE>List-MoreUtil</TITLE>
+    <ABSTRACT>More list utility functions.</ABSTRACT>
+    <AUTHOR>Eric J. Roode &lt;eroode@cpan.org&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="Test-Simple" VERSION="0,40,0,0" />
+        
+        
+        <CODEBASE HREF="" />
+    </IMPLEMENTATION>
+</SOFTPKG>

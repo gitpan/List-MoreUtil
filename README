@@ -1,0 +1,29 @@
+List-MoreUtil version 0.01
+==========================
+
+List::MoreUtil is a collection of over twenty useful functions for
+manipulating lists.  By and large, it complements and expands the
+functionality in the List::Util module, with some overlap.
+
+INSTALLATION
+
+To install this module, do the standard Perl module four-step:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Test::More
+
+COPYRIGHT AND LICENSE
+
+Copyright (C) 2004 by Eric J. Roode.  All Rights Reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.5 or,
+at your option, any later version of Perl 5 you may have available.

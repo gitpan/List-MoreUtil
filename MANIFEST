@@ -1,0 +1,14 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+SIGNATURE
+t/boolean.t
+t/greplike.t
+t/loopers.t
+t/maplike.t
+t/selection.t
+MoreUtil.pm
+META.yml                                 Module meta-data (added by MakeMaker)
+List-MoreUtil.ppd
+List-MoreUtil-ppm.tar.gz

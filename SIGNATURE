@@ -1,0 +1,36 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.41.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It would check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 95203efc25aa46048185d3f41883302293e9e12f Changes
+SHA1 50f6c6d5ef72dc6e17bdc484ec2f3a376d754a4d List-MoreUtil-ppm.tar.gz
+SHA1 d1d101c79a6efdb600651291203067c9ffcc089e List-MoreUtil.ppd
+SHA1 31a6e83490bf12d7746fab3d742df98ffe3c15a0 MANIFEST
+SHA1 7564115f35cb703d60044352219ec67050cee128 META.yml
+SHA1 b6a950c11c5ad9a21630f07ec62915782cff9ca8 Makefile.PL
+SHA1 cd7843ddf477c65e5158357281d133196991c81c MoreUtil.pm
+SHA1 ef6bcb26b391141a8dc59584791f1ea6d3762e35 README
+SHA1 9722dd69715a23e031ef32ae9c958ee207d4e95c t/boolean.t
+SHA1 1692ee01e9dc6440ad734c55131c9af43295bd41 t/greplike.t
+SHA1 5da443bb4cab1570ad8cf43f8a4d297ec15fbcd7 t/loopers.t
+SHA1 736137f5592058b34f4f41ebe8fe889741954907 t/maplike.t
+SHA1 229036b0a60efec50eb74103c4fb8eecd58e4936 t/selection.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (Cygwin)
+
+iD8DBQFBbV9OY96i4h5M0egRAiNMAJ4s899L2byP7GX5NT3uuVsksamT1wCfUiwr
+dzG29Lcx58TNlCmgmhtHZ44=
+=WcP6
+-----END PGP SIGNATURE-----
